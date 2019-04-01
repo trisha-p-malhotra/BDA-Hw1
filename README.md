@@ -1,5 +1,5 @@
-# Big--Data-Analytics-2
-A collection of BDA Homeworks
+# Big-Data-Analytics-HW1
+
 Tools Used: Python(Matplotlib, Sklearn)
 
 Problem Statement:
